@@ -7,12 +7,13 @@ body {
 header {
     background-color: #4CAF50;
     color: white;
-    padding: 15px;
+    padding: 10px 0;
     text-align: center;
 }
 
 nav ul {
     list-style-type: none;
+    padding: 0;
 }
 
 nav ul li {
@@ -25,12 +26,12 @@ nav ul li a {
     text-decoration: none;
 }
 
-section {
+main {
     padding: 20px;
 }
 
-h2 {
-    color: #4CAF50;
+section {
+    margin-bottom: 20px;
 }
 
 footer {
